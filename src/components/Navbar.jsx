@@ -75,7 +75,7 @@ const Navbar = () => {
           ))}
           <div className="flex gap-4 mt-2">
             <motion.a
-              href="https://github.com/yourusername"
+              href="https://github.com/Pinku-creator/"
               target="_blank"
               whileHover={{ scale: 1.2, rotate: 10 }}
               whileTap={{ scale: 0.9 }}
@@ -85,7 +85,7 @@ const Navbar = () => {
             </motion.a>
 
             <motion.a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/pinky-sahu-511a58220"
               target="_blank"
               whileHover={{ scale: 1.2, rotate: 10 }}
               whileTap={{ scale: 0.9 }}
