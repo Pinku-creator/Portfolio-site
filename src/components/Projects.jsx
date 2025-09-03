@@ -24,8 +24,8 @@ function Projects() {
     {
       title: "Portfolio-site",
       desc: "React and Tailwind CSS",
-      github: "#",
-      live: "#",
+      github: "https://github.com/Pinku-creator/Portfolio-site",
+      live: "https://portfolio-site-awq9.onrender.com",
       img: project3,
     },
   ];
